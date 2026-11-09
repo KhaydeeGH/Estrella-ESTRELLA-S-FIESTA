@@ -16,6 +16,6 @@ a {
 
 }
 
-.Heading + p {
+p + p {
     text-align: center;
 }

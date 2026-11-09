@@ -7,6 +7,7 @@ img {
   display: block;
   margin: auto;
   width: 20%;
+
 }
 
 p {
@@ -28,6 +29,7 @@ a {
     padding-bottom: 10px;
     padding-left: 10px;
     background-color: #B87E2D;
+    justify-content: center;
 
 }
 

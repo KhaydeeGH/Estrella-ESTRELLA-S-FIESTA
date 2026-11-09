@@ -1,0 +1,21 @@
+body {
+    background: rgb(159, 47, 43);
+
+p {
+    text-align: center;
+}
+
+
+a {
+    margin: 25px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #B87E2D;
+
+}
+
+.Heading + p {
+    text-align: center;
+}

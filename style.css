@@ -1,7 +1,22 @@
 body {
     background: rgb(159, 47, 43);
+}
+
+
+img {
+  display: block;
+  margin: auto;
+  width: 20%;
+}
 
 p {
+    text-align: center;
+}
+
+
+
+
+p + p {
     text-align: center;
 }
 
@@ -16,6 +31,3 @@ a {
 
 }
 
-p + p {
-    text-align: center;
-}

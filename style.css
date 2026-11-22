@@ -156,9 +156,35 @@ nav a:hover {
   color: #9F2F2B;
 }
 
+.menu-box {
+  width: 250px;
+  background-color: #FFF4E3;
+  border: 3px solid #284B37;
+  border-radius: 12px;
+  padding: 15px;
+}
 
+.menu-box h3 {
+  color: #9F2F2B;
+  border-bottom: 3px solid #B87E2D;
+  padding-bottom: 5px;
+}
 
+.menu-box p {
+  border-bottom: 1px dashed #284B37;
+  padding-bottom: 10px;
+}
 
+.photo {
+  width: 200px;
+  height: 150px;
+  background-color: #9F2F2B;
+  color: #FFF4E3;
+  border-radius: 12px;
+  text-align: center;
+  padding-top: 60px;
+  font-weight: bold;
+}
 
 
 

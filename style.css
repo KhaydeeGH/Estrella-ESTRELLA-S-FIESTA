@@ -85,7 +85,10 @@ nav a {
   text-decoration: none;
 }
 
-
+nav a:hover {
+  color: #9F2F2B;
+  border-bottom: 3px solid #B87E2D;
+}
 
 
 

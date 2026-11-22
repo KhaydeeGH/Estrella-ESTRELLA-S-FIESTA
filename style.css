@@ -103,7 +103,20 @@ nav a:hover {
   margin-bottom: 5px;
 }
 
+.hero img {
+  border-radius: 50%;
+  border: 5px solid #B87E2D;
+}
 
+.hero p {
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+.tagline {
+  font-size: 22px;
+  font-style: italic;
+}
 
 
 

@@ -10,3 +10,12 @@ body {
   color: #333333;
   background-color: #FFF4E3;
 }
+
+h1, h2, h3 {
+  font-family: Poppins, Arial, sans-serif;
+  color: #284B37;
+}
+
+a {
+  color: #9F2F2B;
+}

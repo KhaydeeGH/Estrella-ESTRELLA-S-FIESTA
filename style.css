@@ -56,7 +56,17 @@ h2 {
   color: #FFF4E3;
 }
 
+header {
+  background-color: #FFF4E3;
+  border-bottom: 4px solid #B87E2D;
+  padding: 10px 20px;
+  text-align: center;
+}
 
+.logo-name img {
+  border-radius: 50%;
+  vertical-align: middle;
+}
 
 
 

@@ -31,8 +31,21 @@ section {
   margin: 0 auto;
 }
 
+h2 {
+  font-size: 32px;
+  text-align: center;
+}
 
+.tan {
+  background-color: #F6E4C4;
+  max-width: none;
+}
 
+.green {
+  background-color: #284B37;
+  color: #FFF4E3;
+  max-width: none;
+}
 
 
 

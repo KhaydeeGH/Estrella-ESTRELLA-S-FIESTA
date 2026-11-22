@@ -118,7 +118,21 @@ nav a:hover {
   font-style: italic;
 }
 
+.button {
+  display: inline-block;
+  margin: 10px 5px;
+  padding: 12px 24px;
+  background-color: #9F2F2B;
+  color: #FFF4E3;
+  text-decoration: none;
+  font-weight: bold;
+  border: 2px solid #FFF4E3;
+  border-radius: 30px;
+}
 
+.button:hover {
+  background-color: #7E2320;
+}
 
 
 

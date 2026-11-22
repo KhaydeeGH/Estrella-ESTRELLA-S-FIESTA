@@ -236,7 +236,21 @@ nav a:hover {
   background-color: #7E2320;
 }
 
+footer {
+  background-color: #9F2F2B;
+  color: #FFF4E3;
+  text-align: center;
+  padding: 25px 20px;
+}
 
+footer img {
+  border-radius: 50%;
+  border: 3px solid #B87E2D;
+}
+
+footer a {
+  color: #FFF4E3;
+}
 
 
 

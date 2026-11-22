@@ -145,6 +145,31 @@
         <p>Map will be added once a real location is chosen.</p>
       </div>
 
+      <form class="contact-form" action="#" method="post">
+        <h3>Order Inquiry Form</h3>
+        <p><em>Prototype only. It does not send orders yet.</em></p>
+
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name">
+
+        <label for="items">Preferred Items</label>
+        <textarea id="items" name="items" rows="3"></textarea>
+
+        <label for="quantity">Quantity</label>
+        <input type="number" id="quantity" name="quantity" min="1" value="1">
+
+        <label for="method">Contact Method</label>
+        <select id="method" name="method">
+          <option>Phone</option>
+          <option>Email</option>
+          <option>Messenger</option>
+        </select>
+
+        <button type="submit">Send Inquiry</button>
+      </form>
+    </div>
+  </section>
+
 
 
 

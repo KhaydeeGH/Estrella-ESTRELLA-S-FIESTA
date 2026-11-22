@@ -90,7 +90,18 @@ nav a:hover {
   border-bottom: 3px solid #B87E2D;
 }
 
+.hero {
+  max-width: none;
+  background-color: #284B37;
+  color: #FFF4E3;
+  text-align: center;
+}
 
+.hero h1 {
+  color: #FFF4E3;
+  font-size: 44px;
+  margin-bottom: 5px;
+}
 
 
 

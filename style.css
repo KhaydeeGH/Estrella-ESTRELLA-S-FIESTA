@@ -68,7 +68,22 @@ header {
   vertical-align: middle;
 }
 
+.logo-name span {
+  font-family: Poppins, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #9F2F2B;
+  margin-left: 10px;
+}
 
+nav a {
+  display: inline-block;
+  margin: 8px 8px 0;
+  padding: 4px 6px;
+  color: #284B37;
+  font-weight: bold;
+  text-decoration: none;
+}
 
 
 

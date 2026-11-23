@@ -262,23 +262,6 @@ footer a {
   color: #FFF4E3;
 }
 
-@media (max-width: 600px) {
-  .hero h1 {
-    font-size: 32px;
-  }
-
-  h2 {
-    font-size: 26px;
-  }
-
-  .card,
-  .menu-box,
-  .contact-info,
-  .contact-form {
-    width: 100%;
-  }
-}
-
 
 
 

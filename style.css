@@ -59,8 +59,10 @@ h2 {
 header {
   background-color: #FFF4E3;
   border-bottom: 4px solid #B87E2D;
-  padding: 10px 20px;
+  padding: 5px 324px;
   text-align: center;
+  position: fixed;
+  
 }
 
 .logo-name img {
@@ -95,7 +97,7 @@ nav a:hover {
   padding: 350px 50px;
   color: #FFF4E3;
   background-color: #284B37;
-  background-image: linear-gradient(rgba(40, 75, 55, 0.6), rgba(40, 75, 55, 0.6)), url("Logo.png");
+  background-image: linear-gradient(rgba(9, 19, 13, 0.6), rgba(3, 19, 13, 0.6)), url("Logo.png");
   background-position: center;
   background-size: cover;
   align-items: center;
@@ -156,7 +158,7 @@ nav a:hover {
   background-color: #FFFFFF;
   border-top: 6px solid #9F2F2B;
   border-radius: 12px;
-  padding: 15px;
+  padding: 15px;  
   text-align: center;
 }
 
@@ -261,6 +263,8 @@ footer img {
 footer a {
   color: #FFF4E3;
 }
+
+
 
 
 

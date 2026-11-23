@@ -92,9 +92,17 @@ nav a:hover {
 
 .hero {
   max-width: none;
-  background-color: #284B37;
+  padding: 350px 50px;
   color: #FFF4E3;
+  background-color: #284B37;
+  background-image: linear-gradient(rgba(40, 75, 55, 0.6), rgba(40, 75, 55, 0.6)), url("Logo.png");
+  background-position: center;
+  background-size: cover;
+  align-items: center;
   text-align: center;
+  border-radius: 0% 20px;
+  
+ 
 }
 
 .hero h1 {
@@ -106,6 +114,8 @@ nav a:hover {
 .hero img {
   border-radius: 50%;
   border: 5px solid #B87E2D;
+
+
 }
 
 .hero p {
